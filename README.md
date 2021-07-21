@@ -1,4 +1,5 @@
 # Detection-of-Phishing-Website-KNN-
+A KNN based model to detect Phishing websites
 
 **PROJECT: Build a detector for Phishing websites (KNN)**
 
